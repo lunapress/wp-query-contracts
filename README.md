@@ -1,1 +1,1 @@
-# wp-query-contracts
+# WP Query Wrapper
